@@ -1,1 +1,1 @@
-# octave-limiar
+# computacao-grafica
